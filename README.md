@@ -392,3 +392,7 @@ of the regex pattern and *flags* is the string representation of the regex flags
 - **makeDelim(val, inner, stx)** – *val* represents which delimiter to make
 and can be either "()", "[]", or "{}" and inner is an array of syntax objects
 for all of the tokens inside the delimiter.
+
+## Additional links
+
+- [Post about hygiene in sweet.js](http://disnetdev.com/blog/2013/09/27/hygiene-in-sweet.js/)
