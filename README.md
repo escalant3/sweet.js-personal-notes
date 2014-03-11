@@ -1,8 +1,8 @@
-# SweetJS notes
+# sweet.js notes
 
 #### Disclaimer
 
-These are my personal Sseet.js notes. There are far from being complete (or
+These are my personal sweet.js notes. They are far from being complete (or
   correct). You've been warned!
 
 They include contents from the next original sites:
