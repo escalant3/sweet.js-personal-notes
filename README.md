@@ -103,6 +103,7 @@ Letting `$x` match anything would not allow to perform a proper control over
 the pattern. That's why sweet.js provides parse classes that match only certain
 inputs using the format
 `$name:class`. The classes available are:
+
 1. `expr`: matches an expresion
 2. `ident`: matches an identifier
 3. `lit`: matches a literal
