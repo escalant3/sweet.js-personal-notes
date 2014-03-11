@@ -21,7 +21,10 @@ From [sweetjs.org](http://sweetjs.org)
 
 ### What is a macro?
 
-From Wikipedia [1](http://en.wikipedia.org/wiki/Macro_(computer_science),[2](http://en.wikipedia.org/wiki/Hygienic_macro)
+From Wikipedia:
+
+- http://en.wikipedia.org/wiki/Macro_(computer_science)
+- http://en.wikipedia.org/wiki/Hygienic_macro
 
 > A macro (short for "macroinstruction", from Greek μακρο- 'long') in computer science is a rule or pattern that specifies how a certain input sequence (often a sequence of characters) should be mapped to a replacement output sequence (also often a sequence of characters) according to a defined procedure.
 
@@ -140,9 +143,9 @@ deleting some of the previous rules and checking the result.
 
 #### Repetition
 
-Another powerful tool is the ability to match repeated patterns using `...`. It
-is also possible to specify the separator for the repeated patterns. The
-default separator is any blank space character.
+Another powerful feature is the ability to match repeated patterns using
+`...`. It is also possible to specify the separator for the repeated 
+patterns. The default separator is any blank space character.
 
 ```javascript
 macro print {
