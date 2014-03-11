@@ -204,7 +204,7 @@ foo 5
 // 'foo' + 'bar' + 5;
 ```
 
-While this is a powerful feature, it comes with drawback. If we want to extend
+While this is a powerful feature, it comes with a drawback. If we want to extend
 a built-in keyword like `var` to support ES6 de-structuring and try something
 like:
 
